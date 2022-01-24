@@ -1,0 +1,13 @@
+{
+    "name": "Flight",
+    "alias": "flight",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Flight\\Providers\\FlightServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
