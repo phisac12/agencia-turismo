@@ -1,3 +1,8 @@
 {
-    "Brand": true
+    "Brand": true,
+    "Plane": true,
+    "Flight": true,
+    "State": true,
+    "City": true,
+    "Airport": true
 }
