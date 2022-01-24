@@ -3,5 +3,6 @@
     "Plane": true,
     "Flight": true,
     "State": true,
-    "City": true
+    "City": true,
+    "Airport": true
 }
